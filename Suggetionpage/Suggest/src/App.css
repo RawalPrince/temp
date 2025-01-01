@@ -1,0 +1,44 @@
+.suggestion-page {
+  display: flex;
+  flex-direction: column; /* Stack elements vertically */
+  align-items: center;    /* Center horizontally */
+  justify-content: center; /* Center vertically */
+  height: 100vh;          /* Full height of the viewport */
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.suggestion-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 5px; /* Smaller gap between items */
+  justify-items: center;
+}
+
+.suggestion-item {
+  border: 1px solid #ddd;
+  padding: 5px; /* Reduce padding inside the items */
+  border-radius: 10px;
+  width: 150px;
+  text-align: center;
+}
+
+.item-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.not-today-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ddd;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.not-today-button:hover {
+  background-color: #ccc;
+}

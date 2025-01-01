@@ -1,0 +1,66 @@
+.card-selection-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  padding: px;
+}
+
+.card-selection-container h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 35px;
+}
+
+.card-options {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Two columns */
+  gap: 20px; /* Increased spacing for better aesthetics */
+  width: 70%; /* Dynamic width adjustment */
+  max-width: 500px; /* Limit the width on larger screens */
+}
+
+.card-option {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px; /* Increased size for better visibility */
+  height: 180px;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.card-option:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.card-option img {
+  max-width: 90%; /* Adjusted for larger icons */
+  max-height: 90%;
+  object-fit: contain;
+}
+
+button {
+  margin-top: 40px; /* Adjusted spacing from icons */
+  padding: 15px 30px;
+  font-size: 18px;
+  color: #000;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #f9f9f9;
+}

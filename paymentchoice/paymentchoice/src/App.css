@@ -1,0 +1,54 @@
+button {
+  padding: 20px 40px; /* Increased padding for larger button size */
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  font-size: 16px; /* Increased font size */
+}
+
+button:hover {
+  background-color: #ddd;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transform: scale(1.05);
+}
+
+/* Specific styling for the image button */
+.icon-button {
+  padding: 0; /* Remove default button padding */
+  background: none; /* Remove default button background */
+}
+
+.icon-button .button-image {
+  width: 250px; /* Increased width */
+  height: 300px; /* Increased height */
+  object-fit: cover;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.icon-button:hover .button-image {
+  transform: scale(1.1); /* Slight zoom effect on hover */
+}
+
+/* Other styles remain the same */
+.payment-interface {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 2px;
+}
+
+.payment-options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2px 0;
+  gap: 10px;
+}
+
+.or-section {
+  font-size: 20px;
+  margin: 2px 0;
+}

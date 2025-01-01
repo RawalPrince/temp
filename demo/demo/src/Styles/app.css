@@ -1,0 +1,57 @@
+.menu-container {
+    background: white;
+    padding: 1rem;
+    max-width: 768px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Roboto, sans-serif;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .header .logo {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .menu-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  
+  .category-card {
+    position: relative;
+    height: 8rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+  
+  .category-card h3 {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    color: white;
+  }
+  
+  .promo-card {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .sidebar-menu .menu-item {
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+  }
+  
+  .sidebar-menu .menu-item.selected {
+    background: #fef3c7;
+    color: #d97706;
+  }
+  
