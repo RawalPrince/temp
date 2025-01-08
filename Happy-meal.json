@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Hamburger Happy Meal",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_6975_HamburgerHappyMeal_AppleSlices_WhiteMilkJug1564x1564?wid=1564&hei=1564&dpr=off",
+        "price": 514.51
+    },
+    {
+        "name": "4 Piece Chicken McNuggets® Happy Meal®",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202103_7002_4McNuggetsHappyMeal_AppleSlices_WhiteMilkJug_Left_1564x1564?wid=1564&hei=1564&dpr=off",
+        "price": 371.87
+    },
+    {
+        "name": "6 Piece Chicken McNuggets® Happy Meal®",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202103_7780_6McNuggetsHappyMeal_AppleSlices_WhiteMilkJug_Left_1564x1564-1:nutrition-calculator-tile",
+        "price": 617.50
+    }
+]

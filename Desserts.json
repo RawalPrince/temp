@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Chocolate Overload McFlurry with Oreo Small",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/fc5/8fdd0d031b68167a1d9d5216e9dc7fc5.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 104
+    },
+    {
+        "name": "Chocolate Overload McFlurry with Oreo Medium",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/900/55f45a913630e7c0970f7e62a9164900.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 139
+    },
+    {
+        "name": "Soft Serve Hot Fudge (M)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/34a/9c8958145495e8f2cf70470195f7834a.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 66
+    },
+    {
+        "name": "Black Forest McFlurry Medium",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/561/f513cc8c35cadd098835fb5b23c03561.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 139
+    },
+
+    {
+        "name": "McFlurry Oreo ( M )",  
+        "img":"https://b.zmtcdn.com/data/dish_photos/4e4/f966500ed8b913a16cfdb25aab9244e4.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 129
+    },
+    {
+        "name": "Soft Serve Strawberry (M)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/06e/d7bd22aa47cffdcdde2d5b6223fde06e.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 66
+    },
+    {
+        "name": "Brownie Hot Fudge (M)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/e74/6e00a57c6d8ceff6812a765c80e9ce74.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 139
+    },
+    {
+        "name": "Oreo Sundae ( M )",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/7ab/3696da86802f534ba9ca68bd8be717ab.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 72
+    },
+    {
+        "name": "Mcflurry Oreo ( S )",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/38d/a28369e386195be4071d9cf5078a438d.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 104
+    }
+]

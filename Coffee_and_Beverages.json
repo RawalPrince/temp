@@ -1,0 +1,192 @@
+[
+    {
+        "name": "McCafe@ Iced Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_7606_MediumIcedLatte_Glass_A1_832x472:nutrition-calculator-tile",
+        "price": 80
+    },
+    {
+        "name": "McCafe@ Iced Caramel Coffee",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1207_MediumIcedCaramelCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 150
+    },
+    {
+        "name": "McCafe@ Premium Roast Coffee",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0321_MediumCoffee_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 150
+    },
+    {
+        "name": "McCafe@ Caramel Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1324_MediumCaramelLatte_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 150
+    },
+
+    {
+        "name": "McCafe@ cappuccino",  
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2692_MediumCappuccino_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 174
+    },
+    {
+        "name": "McCafe@ Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2698_MediumLatte_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 178
+    },
+    {
+        "name": "McCafe@ Mocha Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2731_MediumMocha_Glass_A1_HL_832x472:nutrition-calculator-tile",
+        "price": 178
+    },
+    {
+        "name": "McCafe@ Iced Caramel Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0379_MediumIcedCaramelLatte_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 180
+    },
+    {
+        "name": "Americano",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1318_MediumAmericano_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 187
+    },
+    {
+        "name": "McCafe@ French Vanilla Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1372_MediumVanillaCappuccino_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 195
+    },
+
+    {
+        "name": "McCafe@ caramel cappuccino",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1517_MediumCaramelCappuccino_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 210
+    },
+
+    {
+        "name": "McCafe@ Iced Caramel Macchiato",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2743_MediumIcedCaramelMacchiato_Glass_A1_832x472:nutrition-calculator-tile",
+        "price": 209
+    },
+    {
+        "name": "McCafe@ Iced Coffee",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1212_MediumIcedCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 208
+    },
+
+    {
+        "name": "McCafe@ Iced French Vanilla Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1216_MediumIcedFrenchVanillaCoffee_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 229
+    },
+
+    {
+        "name": "McCafe@ Iced Mocha Latte",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_7659_MediumIcedMocha_Glass_A1_832x472:nutrition-calculator-tile",
+        "price": 270
+    },
+
+
+    {
+        "name": "McCafe@ Caramel Frappe",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2842_MediumCaramelFrappe_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 279
+    },
+    {
+        "name": "McCafe@ Mocha Frappe",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_3491_MediumMochaFrappe_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 279
+    },
+
+    {
+        "name": "McCafe@ caramel Macchiato",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2804_MediumCaramelMacchiato_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 316
+    },
+
+
+
+
+    {
+        "name": "Dasani Water",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202402_5474_DasaniBottledWater_1564x1564-1:nutrition-calculator-tile",
+        "price": 40
+    },
+
+    {
+        "name": "Hot Tea",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_0573_MediumHotTea_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 20
+    },
+    {
+        "name": "Sweet Tea",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202105_3429_SweetTea_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 30
+    },
+    {
+        "name": "Fanta",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202212_1262_MediumFantaOrange_Glass_1564x1564-1:nutrition-calculator-tile",
+        "price": 40
+    },
+    {
+        "name": "Diet Coke",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202112_0652_MediumDietCoke_Glass_1564x1564-1:nutrition-calculator-tile",
+        "price": 50
+    },
+
+    {
+        "name": "Unsweetened Iced Tea",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201909_9449_UnsweetTea_Glass_A1_1564x1564-1:nutrition-calculator-tile",        
+        "price": 40
+    },
+
+    {
+        "name": "Coca-Cola",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202402_0521_MediumCoke_ContourGlassv1_1564x1564:nutrition-calculator-tile",
+        "price": 45
+    },
+    {
+        "name": "Sprite",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202212_0721_MediumSprite_Glass_1564x1564-1:nutrition-calculator-tile",
+        "price": 45
+    },
+    {
+        "name":"Dr Prepper",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201905_0421_MediumDrPepper_Glass_1564x1564-1:nutrition-calculator-tile",
+        "price": 80
+    },
+    {
+        "name": "Strawberry Banana Smoothie",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2725_MediumStrawberryBananaSmoothie_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 80
+    },
+    {
+        "name": "Mango  Smoothie",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_2790_MediumMangoPineappleSmoothie_Glass_A1_1564x1564-1:nutrition-calculator-tile",
+        "price": 50
+    },
+
+    {
+        "name": "Hi-C Orange Lavaburst",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202012_0621_MediumHi-COrange_1564x1564-1:nutrition-calculator-tile",
+        "price": 110
+    },
+    {
+        "name": "Frozen Fanta Blue Raspberry",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202301_7959_MediumFrozenFantaBlueRaspberry_Glass_1564x1564-1:nutrition-calculator-tile",
+        "price": 60
+    },
+    {
+        "name": "Frozen Cocacola Classic",
+        "img":  "https://s7d1.scene7.com/is/image/mcdonalds/DC_202301_7963_MediumFrozenCocaColaClassic_Glass_1564x1564-1:nutrition-calculator-tile",
+        "price": 65
+    },
+
+    {
+        "name": "Lemonade",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_14878_MediumLemonade_1564x1564-1:nutrition-calculator-tile",
+        "price": 120
+    },
+
+
+    {
+        "name": "Hot chocolate",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_201906_1697_MediumPremiumHotChocolate_Glass_A1_HL_1564x1564-1:nutrition-calculator-tile",
+        "price": 120
+    }
+
+]

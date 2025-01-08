@@ -1,0 +1,403 @@
+[
+    
+    {
+        "name": "Chicken Surprise Burger + Cold Coffee",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/d37/ebdc6af4173f84c2f2b1f30b8bf95d37.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 266.67
+    },
+    {
+        "name": "McSaver Peppery Chicken Surprise Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/982/c07905615079a6f9a03c1af8ca4e8982.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 119.04
+    },
+    {
+        "name": "Chicken Surprise Burger + Iced Coffee",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/b91/6e277fbb1d42999f8445dffa5cdacb91.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 256.19
+    },
+    {
+        "name": "Chicken Surprise Burger + Cappuccino",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/528/f12f0c425d09deb07c2ec0180290f528.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 227.76
+    },
+
+    {
+        "name": "McAloo Tikki Burger + Cold Coffee",  
+        "img":"https://b.zmtcdn.com/data/dish_photos/8a1/26a9ce55c5b06dc84543dae161ddc8a1.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 251.43
+    },
+    {
+        "name": "McAloo Tikki Burger + Iced Coffee",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/f0b/4491f916188ae185c1c853d4b9ed5f0b.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 250.48
+    },
+    {
+        "name": "McAloo Tikki Burger + Cappuccino",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/5d3/cae7c65c3f9e623c222ce9dfc1e2e5d3.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 219.05
+    },
+    {
+        "name": "Crispy Veggie Burger + McAloo Tikki",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/ae3/e1ebffb538ccd364844e427e89c56ae3.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 245
+    },
+    {
+        "name": "Mc Crispy Chicken Burger + McAloo Tikk",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/a62/ff3b814fffb36fb8064b397f8b308a62.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 295
+    },
+    {
+        "name": "Crispy Veggie Burger + Classic Cheese Fries",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/234/6eee1149a84049a5b0e259155b0d0234.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 309
+    },
+
+    {
+        "name": "Mc Crispy Chicken Burger + Classic Cheese Fries",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/14c/4092140aaaa04df2fb6fbf9841de814c.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 309
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Crispy Veggie Burger + Piri Piri Fries (M)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/f10/9e404dc8c8a7fc3ec623cc5e867cdf10.png?fit=around|130:130&crop=130:130;,",
+        "price": 309
+    },
+    {
+        "name": "Mc Crispy Chicken Burger + Piri Piri Fries (M)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/d8c/1f18a6a0f021f7da84f7b1190c237d8c.png?fit=around|130:130&crop=130:130;,",
+        "price": 359
+    },
+
+    {
+        "name": "New McSaver Mexican McAloo Tikki NONG",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/bb9/6cdfb87bd33b1c599ec584e7efacbbb9.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+
+    {
+        "name": "Chicken Surprise Burger + Chocolate Shake",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/a82/6d5bd9523ae58424e3a84f012f78da82.png?fit=around|130:130&crop=130:130;,",
+        "price": 209
+    },
+
+
+    {
+        "name": "New McSaver McAloo Tikki NONG ",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/359/1a9bbb68eb03d0371f3db15b61ae6359.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+    {
+        "name": "Chicken Surprise Burger + Fries (M)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/de9/c715cf27c41c95d36b7f142935e22de9.png?fit=around|130:130&crop=130:130;,",
+        "price": 163
+    },
+
+    {
+        "name": "New McSaver Chicken Nuggets (4 Pc)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/9eb/7bf83367ed61708817caefbc79a3c9eb.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+
+
+
+
+    {
+        "name": "Chicken Surprise Burger + McChicken Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/ed7/3d7f48e338fb45ec9cf666ba92a2bed7.png?fit=around|130:130&crop=130:130;,",
+        "price": 200
+    },
+
+    {
+        "name": "New McSaver Mexican McAloo Tikki",
+        "img": "https://b.zmtcdn.com/data/dish_photos/f81/5897849bed9b0298559968c3e5f4af81.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+    {
+        "name": "New McSaver Small Fries",
+        "img": "https://b.zmtcdn.com/data/dish_photos/2e0/70771ada9c14923d9535e84d1d2fc2e0.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+
+
+    {
+        "name": "New McSaver Masala McEgg",
+        "img": "https://b.zmtcdn.com/data/dish_photos/d6c/8f0cbf7d50d3f8dad87b971fb11f8d6c.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+    {
+        "name": "New McSaver Pizza McPuff",
+        "img": "https://b.zmtcdn.com/data/dish_photos/bb3/45fa406e76418771de26c37e8863fbb3.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+
+    {
+        "name": "McChicken Burger + Fries (M)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/54a/12341736dc8b321b58ca05b6bac9b54a.png?fit=around|130:130&crop=130:130;,",        
+        "price": 229
+    },
+
+    {
+        "name": "Veg Surprise Burger + 1 Coke",
+        "img": "https://b.zmtcdn.com/data/dish_photos/403/86eae8cb2cfd30cb4b607aa1fb454403.png?fit=around|130:130&crop=130:130;,",
+        "price": 76
+    },
+    {
+        "name": "New McSaver McAloo Tikki",
+        "img": "https://b.zmtcdn.com/data/dish_photos/93e/ab4c47366f0e51ac0071f705b0f2d93e.png?fit=around|130:130&crop=130:130;,",
+        "price": 119
+    },
+    {
+        "name":"McAloo Tikki Burger + Veg Pizza McPuff + Fries (R)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/dd2/f3752e4f93b9a1e4d96dcb2e652afdd2.png?fit=around|130:130&crop=130:130;,",
+        "price": 209
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Corn & Cheese Burger + Coke",
+        "img": "https://b.zmtcdn.com/data/dish_photos/f8f/05d5820a8983942fd29e46da5e4a1f8f.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 229
+    },
+    {
+        "name": "Grilled Chicken & Cheese Burger + Coke",
+        "img": "https://b.zmtcdn.com/data/dish_photos/46c/2cba651060dfc0c03ed7d55a14aee46c.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 229
+    },
+    {
+        "name": "Corn & Cheese Burger + Fries (R)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/5b0/495bcb831b35c29883707b9458fd55b0.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 187
+    },
+    {
+        "name": "Corn & Cheese Burger + Coke + Fries (M) + Veg Pizza McPuff",
+        "img": "https://b.zmtcdn.com/data/dish_photos/4f8/8d4a82d50f6e79d95fcc324b161374f8.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 355
+    },
+    {
+        "name": "New McSaver Chicken Surprise",
+        "img": "https://b.zmtcdn.com/data/dish_photos/eec/3a437ba06ef546d56e850d06ae73beec.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 119
+    },
+    {
+        "name": "2 McVeggie Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/313/60b6ba60d0250f8a7c07d4f931ecc313.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 250
+    },
+    {
+        "name": "McAloo Tikki + Fries (R)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/58f/4803e73e20cbd0edabde77d2a9d1058f.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 109
+    },
+    {
+        "name": "McAloo Tikki Burger + Veg Pizza McPuff + Fries (R)",
+        "img": "https://b.zmtcdn.com/data/dish_photos/dd2/f3752e4f93b9a1e4d96dcb2e652afdd2.png?fit=around|130:130&crop=130:130;*,*",
+        "price":209
+    },
+
+
+
+
+
+
+
+
+     {
+        "name": "Grilled Chicken & Cheese Burger + Veg Pizza McPuff ",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/853/b9f02abd64c74307339cbd3421e7f853.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 190
+    },
+    {
+        "name": "Corn & Cheese Burger + Veg Pizza McPuff",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/94d/f847f39d3b81367ecd2aa14bd2dca94d.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 177
+    },
+    {
+        "name": "McChicken Burger + Fries (L)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/fac/a4148348225f693c23b73eda06934fac.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 239
+    },
+    {
+        "name": "McVeggie Burger + Veg Pizza McPuff + Fries (L)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/aa9/8514c5923cc1abe71d3dce94d52e5aa9.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 279
+    },
+
+    {
+        "name": "Strawberry Shake + Fries (M)",  
+        "img":"https://b.zmtcdn.com/data/dish_photos/f53/74603316fc90ea3cd2b193ab491fbf53.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 196
+    },
+    {
+        "name": "Mexican McAloo Tikki Burger + Fries (R)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/2f7/7274d82212a758e597550e8c246fb2f7.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 116
+    },
+    {
+        "name": "McChicken Burger + Fries (R)",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/cbc/fee8ad670ba06e0f2b3f6fd8305adcbc.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 176
+    },
+    {
+        "name": "McVeggie Burger + Veg Pizza McPuff", 
+        "img": "https://b.zmtcdn.com/data/dish_photos/bec/8cb2f75ca6a51061c69280daf1b63bec.png?fit=around|130:130&crop=130:130;*,*",     
+        "price": 189
+    },
+    
+ {
+        "name": "6 Pc Chicken Nuggets + Fries (M) + Piri Piri Spice Mix",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/3c4/8cba0938b4401e5c8cb2ccf3741b93c4.jpeg?fit=around|130:130&crop=130:130;*,*",
+        "price": 246
+        },
+        {
+            "name": "Chocolate Flavoured Shake+ Fries (M)",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/154/46781c13d587e5f951ac1bbb39e57154.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 196
+        },
+        {
+            "name": "McSpicy Chicken Burger + Mexican Cheese Fries",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/800/40259e78ad0e89966755805a7c1ad800.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 279
+        },
+        {
+            "name": "McSpicy Chicken Burger + Fries (M) + Piri Piri Spice Mix",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/9b8/e10982204687e18ee6541684365039b8.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 279
+        },
+    
+        {
+            "name": "Veg Pizza McPuff + McSpicy Chicken Burger",  
+            "img":"https://b.zmtcdn.com/data/dish_photos/491/fb4b9d4775505e82d05d6734ef3e2491.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 249
+        },
+        {
+            "name": "McAloo Tikki Burger + Veg Pizza McPuff + Piri Piri Spice Mix",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/8a6/46bcb1e486cbe6dcdb0487b063af58a6.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 132
+        },
+        {
+            "name": "McVeggie Burger + Fries (M)",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/941/d14cc495747a172686ebe43e675bc941.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 199
+        },
+        {
+            "name": "Mexican McAloo Tikki Burger + Fries (L)",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/71e/f4be6e877d2567a0b585d4b16e53871e.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 174
+        },
+        {
+            "name": "McVeggie Burger + Fries (M) + Piri Piri Mix",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/923/65f67ba7edf39e8b3dfd09d89f6b8923.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 232
+        },
+        {
+            "name": "McVeggie Burger + Fries (R)",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/8c2/52a347eab543d461b1a15b609779b8c2.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 176
+        },
+    
+        {
+            "name": "McVeggie Burger + Fries (L)",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/6f8/f16eeec3e5d19f8627971620ed2da6f8.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 239
+        },
+    
+        {
+            "name": "McChicken Burger + McSpicy Chicken Burger",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/41c/006d51070b0ab9c839a293b87412541c.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 299
+        },
+        {
+            "name": "McVeggie Burger + McAloo Tikki Burger",
+            "img": "https://b.zmtcdn.com/data/dish_photos/da7/1f4d583548597d41086df0c723560da7.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 199
+        },
+    
+        {
+            "name": "McAloo Tikki Burger + Veg Pizza McPuff + Coke",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/26d/9f0269a2d28f4918a3b07f63a487f26d.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 185
+        },
+    
+        {
+            "name": "McChicken Burger + Veg Pizza McPuff",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/ded/9a66b8ef66d780b9f83a0fc7cd434ded.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 179
+        },
+    
+    
+        {
+            "name": "2 McFlurry Oreo (S)",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/fed/65f3574f53112e9d263dfa924b1f8fed.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 158
+        },
+        {
+            "name": "2 Iced Coffee",  
+            "img": "https://b.zmtcdn.com/data/dish_photos/ba2/3d368f80f3952ae692f6775854cabba2.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 238
+        },
+    
+        {
+            "name": "2 Coke",
+            "img": "https://b.zmtcdn.com/data/dish_photos/2dd/2d7540e92ac04c0c0823e9f4f029e2dd.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 163
+        },
+    
+    
+    
+    
+        {
+            "name": "2 Fries (R)",
+            "img": "https://b.zmtcdn.com/data/dish_photos/476/4a170da5ecae92e11410a8fbb44c8476.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 122
+        },
+    
+        {
+            "name": "2 Soft Serve Hot Fudge (M)",
+            "img": "https://b.zmtcdn.com/data/dish_photos/5d9/f1238db9da73d8ec7a999792f35865d9.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 156
+        },
+        {
+            "name": "2 Cappuccino",
+            "img": "https://b.zmtcdn.com/data/dish_photos/311/06eee6eecb6006443538d3c054f81311.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 238
+        },
+        {
+            "name": "Black Forest Mcflurry (M) BOGO",
+            "img": "https://b.zmtcdn.com/data/dish_photos/885/972a2b3aca8059ba25a04875ec091885.png?fit=around|130:130&crop=130:130;*,*",
+            "price": 139
+        }
+       
+
+]
