@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Salsa dip",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Salsa-Dip-for-Mozzarella-Dippers-new-sept-promo:nutrition-calculator-tile",
+        "price": 19
+    },
+    {
+        "name": "Tomato-ketchup dip-21ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Tangy-Tomato-Dip-1:nutrition-calculator-tile",
+        "price": 19
+    },
+    {
+        "name": "Mcdonalds Balsamic Dressing-30ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Balsamic-Dressing-30g:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "BBQ dip-30ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-BBQ-Dip-30g-5:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "Sweet sour dip-30ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Sweet-Sour-Dip-30g-5:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "Sweet curry dip-30ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Sweet-Curry-Dip-30g-5:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "Garlic mayo dip-30ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-garlic-mayo-dip-may-promo:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "Sweet chilli dip-30ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Sweet-Chilli-Dip-may-promo:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "Sweet and smoky bbq dip-40ml",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-sweet-and-smoky-bbq-dip-40g-jan-promo:nutrition-calculator-tile",
+        "price": 39
+    },
+    {
+        "name": "Pancake syrup-40g",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Pancake-Syrup-1:nutrition-calculator-tile",
+        "price": 39
+    },
+    {
+        "name": "Strawberry jam",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Strawberry-Jam-1:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "Lurpak Spreadable",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Butter-Portion:nutrition-calculator-tile",
+        "price": 39
+    },
+    {
+        "name": "Milk portion",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Milk-Portion-1:nutrition-calculator-tile",
+        "price": 35
+    },
+    {
+        "name": "Canderel Yellow Sweetener Sachet",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Canderel-Yellow-Sweetener-Sachet:nutrition-calculator-tile",
+        "price": 39
+    },
+    {
+        "name": "Sugar Stick",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Sugar-Stick-1:nutrition-calculator-tile",
+        "price": 29
+    },
+    {
+        "name": "Golden syrup",
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-Golden-Syrup-1:nutrition-calculator-tile",
+        "price": 39
+    }
+]

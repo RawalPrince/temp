@@ -1,0 +1,192 @@
+[
+    {
+        "name": "McAloo Tikki Burger with Cheese",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/96d/62394dceac042466cf00a301c9d8596d.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 99.05
+    },
+    {
+        "name": "Peppery Chicken Surprise Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/2ef/d1df6a7817bd33d2b4dc245fad4db2ef.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 80.95
+    },
+   {
+        "name": "Mexican McAloo Tikki with Cheese",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/0e8/1224998cd60e83c2951673553648b0e8.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 99.05
+   },
+    {
+        "name": "Crispy Veggie Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/8fd/f0c31b902a423b92bca43b0fae8df8fd.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 200
+    },
+
+    {
+        "name": "Mc Crispy Chicken Burger",  
+        "img":"https://b.zmtcdn.com/data/dish_photos/f9b/bffd6e4c7f370d26f3aacfc7b6c29f9b.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 224
+    },
+    {
+        "name": "Mexican McAloo Tikki Burger NONG",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/d09/4f81f1aa86e90e15926b0508517b0d09.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 75
+    },
+    {
+        "name": "McAloo Tikki Burger NONG",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/54a/34955a1393b9f1ad947b79d8fc64854a.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 75
+    },
+    {
+        "name": "Chicken Surprise Burger", 
+        "img": "https://b.zmtcdn.com/data/dish_photos/b9c/f313cdbde3a194022ddc09258ef94b9c.png?fit=around|130:130&crop=130:130;*,*",     
+        "price": 76
+    },
+    {
+        "name": "Mexican McAloo Tikki Double Patty Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/6de/cda0e2d51420a95fad28ad728914b6de.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 94
+    },
+    {
+        "name": "McSpicy Deluxe Chicken Double Patty Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/347/8540bab49c99e3b9f0d625c7b17a1347.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 300
+    },
+
+    {
+        "name": "McSpicy Chicken Double Patty Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/913/314b5b5786f73746de4880602723a913.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 281
+    },
+
+    {
+        "name": "McChicken Double Patty Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/b00/af88f46a82ef5e6a0feece86c349bb00.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 173
+    },
+    {
+        "name": "McVeggie Double Patty Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/85a/2d5062832f4d36c90e7dfe61ef48e85a.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 188
+    },
+
+    {
+        "name": "Veg Surprise Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/453/7e3927f64e1a1b724909b56320a2b453.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 66
+    },
+
+    {
+        "name": "McAloo Tikki Double Patty Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/229/ef569f74786e6344883a1decdd193229.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 94
+    },
+
+
+    {
+        "name": "McSpicy Deluxe Paneer Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/9a8/66cfda78c471eb37341b47b9a3c829a8.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 234
+    },
+    {
+        "name": "McSpicy Deluxe Chicken Burger",  
+        "img": "https://b.zmtcdn.com/data/dish_photos/3c4/fde71875e1358201924b8fb8e6bc93c4.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 243
+    },
+
+    {
+        "name": "McCheese Burger Chicken",
+        "img": "https://b.zmtcdn.com/data/dish_photos/d29/882f2d4dbff1b6c0bc7d924498325d29.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 281
+    },
+
+
+
+
+    {
+        "name": "Grilled Chicken & Cheese Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/073/272b1df4554fb89bd6b23c1072259073.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 164
+    },
+
+    {
+        "name": "Corn & Cheese Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/146/6dfd1390e76ebf6a66ff5f4861d46146.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 155
+    },
+    {
+        "name": "McSpicy Premium Chicken Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/b4d/92bcabc46add2279521b45b190068b4d.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 260
+    },
+    {
+        "name": "McAloo Tikki Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/87f/b13811eeee71e578bc6ca89eca0ec87f.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 75
+    },
+    {
+        "name": "McChicken Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/8e5/506eeb1990223cafcf3598bac632c8e5.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 145
+    },
+
+    {
+        "name": "McVeggie Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/1ff/e01c65e4618de13151057bb7a56ba1ff.png?fit=around|130:130&crop=130:130;*,*",        
+        "price": 150
+    },
+
+    {
+        "name": "Filet-O-Fish Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/9ab/a1a80674b315d438b4903c807c8129ab.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 185
+    },
+    {
+        "name": "Chicken Maharaja Mac Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/adf/96071cdd17b87736578eece52366fadf.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 268
+    },
+    {
+        "name":"Veg Maharaja Mac Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/392/8972dbfdd5f3f192dce3e06d1ad56392.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 225
+    },
+    {
+        "name": "Mexican McAloo Tikki Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/1b4/167aeccf27bab14940fa646c8328b1b4.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 75
+    },
+    {
+        "name": "Masala McEgg Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/611/265c57f68b1a52f1cc4b63acf082d611.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 72
+    },
+
+    {
+        "name": "McSpicy Paneer Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/4ae/e48b3e3982e57e85968fadec054fb4ae.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 215
+    },
+    {
+        "name": "McSpicy Chicken Burger",
+        "img": "https://b.zmtcdn.com/data/dish_photos/90f/048312842ce70109867884cc67e7690f.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 224
+    },
+    {
+        "name": "Big Spicy Chicken Wrap",
+        "img":  "https://b.zmtcdn.com/data/dish_photos/48a/018fdd484b49b1d8ca330032f8d1a48a.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 259
+    },
+
+    {
+        "name": "Big Spicy Paneer Wrap",
+        "img": "https://b.zmtcdn.com/data/dish_photos/cb2/4b6f879c1d564f67e0451d8ad5bebcb2.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 240
+    },
+
+
+    {
+        "name": "McCheese Burger Veg",
+        "img": "https://b.zmtcdn.com/data/dish_photos/66b/c3c7b1e6ec2b67c68923b1641985966b.png?fit=around|130:130&crop=130:130;*,*",
+        "price": 262
+    }
+
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Small World Famous Fries®",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202411_6050_SmallFrenchFries_Standing_McValue_1564x1564:nutrition-calculator-tile",
+        "price": 123
+    },
+    {
+        "name": "20 Pc Chicken Nuggets",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/TTNGET-2094-1-2094.png",
+        "price": 422
+    },
+    {
+        "name": "9 Pc Chicken Nuggets",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/NPCNGT-2056-1-2056.png",
+        "price": 218
+    },
+    {
+        "name": "Salsa Cheese Fries",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/700/1696847348606864.png",
+        "price": 136
+    },
+
+    {
+        "name": "Fries(large)",  
+        "img":"https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/LFRIES-59-1-59.png",
+        "price": 140
+    },
+    {
+        "name": "Fries(medium)",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/MFRIES-60-1-60.png",
+        "price": 120
+    },
+    {
+        "name": "Fries(Regular)",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/SFRIES-61-1-61.png",
+        "price": 79
+    },
+    {
+        "name": "Classic Cheese Fries",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/1696847267947337.png",
+        "price": 157
+    },
+    {
+        "name": "4 Pcs Chicken Nuggets",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/RGNGET-1102-1-1102.png",
+        "price": 110
+    },
+    {
+        "name": "Veg Pizza McPuff",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/PIZPUF-67-1-67.png",
+        "price": 66
+    },
+
+    {
+        "name": "Classic Corn Cup",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/700/SWTCRN-6113-1-6113.png",
+        "price": 90
+    },
+
+    {
+        "name": "Mustard Sauce",  
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/700/MUSSCE-290-1-290.png",
+        "price": 19
+    },
+    {
+        "name": "Barbeque Sauce",
+        "img": "https://c38blhej2h.execute-api.ap-south-1.amazonaws.com/dev/png/456/BARSCE-289-1-289.png",
+        "price": 19
+    },
+
+    {
+        "name": "Ketchup Packet",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_02679-243__0912_Ketchup_1564x1564-1?wid=1564&hei=1564&dpr=off",
+        "price": 19
+    },
+
+    {
+        "name": "Spicy Buffalo Sauce",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_Ingredient_Condiment_202203_07812-045__9089_SpicyBuffalo_1564x1564?wid=1564&hei=1564&dpr=off",
+        "price": 29
+    },
+
+ 
+
+
+    {
+        "name": "Mayonnaise Packet",  
+        "img": "https://s7d1.scene7.com/is/image/mcdonalds/DC_Ingredient_Condiment_202203_11668-000__9008_Mayonnaise_1564x1564-1?wid=1564&hei=1564&dpr=off",
+        "price": 279
+    }
+
+]
